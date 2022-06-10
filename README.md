@@ -74,3 +74,8 @@ background: url("../images/digital-marketing-meeting.jpg") center / cover;
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    
+    
+    [file:///Users/aleksandramikhailichenko/Desktop/Code-Refactor-1-challenge/index.html]
+    
+    
