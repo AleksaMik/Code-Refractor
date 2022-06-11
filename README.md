@@ -76,11 +76,9 @@ background: url("../images/digital-marketing-meeting.jpg") center / cover;
     max-width: 150px;
     
     
- Click [here]
+ Click [here](https://www.youtube.com/)
  
- (file:///Users/aleksandramikhailichenko/Desktop/Code-Refactor-1-challenge/index.html)  
  
- for the web.
   
     
     
