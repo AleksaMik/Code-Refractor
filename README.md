@@ -83,7 +83,7 @@ Following CSS class selectors that were combined and changed to id selectors:
     
     Instalation 
      
-     https://AleksaMik.github.io/Code-Refactor-1-challenge/
+     https://{AleksaMik}.github.io/{Code-Refactor-1-challenge}
 
  
  
