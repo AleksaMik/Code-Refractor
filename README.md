@@ -81,7 +81,7 @@ Following CSS class selectors that were combined and changed to id selectors:
     margin: 10px auto;
     max-width: 150px;
     
-    Instalation 
+  
      
      https://{AleksaMik}.github.io/{Code-Refactor-1-challenge}
 
