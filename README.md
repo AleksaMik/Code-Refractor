@@ -88,7 +88,7 @@ Following CSS class selectors that were combined and changed to id selectors:
   <br>
    <h5>Deployed aplication link with GitHub Pages<h5>
   
-  https://aleksamik.github.io/Code-Refractor/
+  <https://aleksamik.github.io/Code-Refractor/> 
   <br>
   <h5>GitHub Repository link<h5>
     
