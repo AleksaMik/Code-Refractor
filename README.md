@@ -1,9 +1,10 @@
 # Code-Refactor-1-challenge
 
 <h4>BootCamp first week challenge: Improve accessebility of given webpage through refactoring<h4>
-<p>
+
  ![SCR-20220611-hic](https://user-images.githubusercontent.com/105229148/173199302-787dcb9f-a4f5-4528-b6ed-3efa5e580ca4.jpeg)
-  <p>
+
+ 
 Technical Acceptance Criteria: 
 
 Satisfies all of the preceding acceptance criteria plus the following code improvements:
