@@ -1,7 +1,9 @@
 # Code-Refactor-1-challenge
 
-BootCamp first week challenge
-
+<h4>BootCamp first week challenge: Improve accessebility of given webpage through refactoring<h4>
+<p>
+ ![SCR-20220611-hic](https://user-images.githubusercontent.com/105229148/173199302-787dcb9f-a4f5-4528-b6ed-3efa5e580ca4.jpeg)
+  <p>
 Technical Acceptance Criteria: 
 
 Satisfies all of the preceding acceptance criteria plus the following code improvements:
@@ -80,10 +82,6 @@ Following CSS class selectors that were combined and changed to id selectors:
     display: block;
     margin: 10px auto;
     max-width: 150px;
-    <br>
-    <br>
-    
-  ![SCR-20220611-hic](https://user-images.githubusercontent.com/105229148/173199302-787dcb9f-a4f5-4528-b6ed-3efa5e580ca4.jpeg)
   <br>
   <br>
    <h5>Deployed aplication link with GitHub Pages<h5>
