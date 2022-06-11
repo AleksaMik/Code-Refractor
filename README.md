@@ -26,9 +26,15 @@ Repository follows best practices for class/id naming conventions, indentation, 
 Repository contains multiple descriptive commit messages.
 Repository contains a quality README file with description, screenshot, and link to deployed application.
 
-CSS rules that were simplified into one rule:
 
-background: url("../images/digital-marketing-meeting.jpg") center / cover;
+HTML file title was changed from "Website" to "Digital Marketing Strategies".
+"alt" properties to the image tag were added.
+<div class="search-engine-optimization" was replace with the corresponding id.
+following classes "online-reputation management" and "social-media-marketing" were removed from corresponding id classes.
+h2 heading elelment in "footer class" was replaced with h4.      
+  
+Following CSS class selectors that were combined and changed to id selectors:
+     
 
 #search-engine-optimization,
 #online-reputation-management,
@@ -76,7 +82,7 @@ background: url("../images/digital-marketing-meeting.jpg") center / cover;
     max-width: 150px;
     
     
- Click [here](https://www.youtube.com/)
+
  
  
   
