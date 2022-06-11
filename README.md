@@ -29,14 +29,15 @@ Repository follows best practices for class/id naming conventions, indentation, 
 Repository contains multiple descriptive commit messages.
 Repository contains a quality README file with description, screenshot, and link to deployed application.
 <br>
+<br>
 Process
+ <br>
  <br>
 HTML:
  file title was changed from "Website" to "Digital Marketing Strategies".
-"alt" properties to the image tag were added.
-<div class="search-engine-optimization" was replace with the corresponding id.
-following classes "online-reputation management" and "social-media-marketing" were removed from corresponding id classes.
-h2 heading elelment in "footer class" was replaced with h4.      
+"alt" properties to the image tag were added, class "search-engine-optimization" was replace with the corresponding id.
+ following classes "online-reputation-management" and "social-media-marketing" were removed from corresponding id classes.
+ h2 heading elelment in "footer class" was replaced with h4.      
   
 Following CSS class selectors that were combined and changed to id selectors:
      
@@ -87,9 +88,10 @@ Following CSS class selectors that were combined and changed to id selectors:
   <br>
   <br>
   
-  
+  link to GitHub repository
   <https://aleksamik.github.io/Code-Refractor/> 
   <br>
+  link to the web
   https://github.com/AleksaMik/Code-Refractor
  
  
