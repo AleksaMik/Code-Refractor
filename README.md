@@ -77,7 +77,10 @@ background: url("../images/digital-marketing-meeting.jpg") center / cover;
     
     
  Click [here]
- (file:///Users/aleksandramikhailichenko/Desktop/Code-Refactor-1-challenge/index.html) for the web.
+ 
+ (file:///Users/aleksandramikhailichenko/Desktop/Code-Refactor-1-challenge/index.html)  
+ 
+ for the web.
   
     
     
