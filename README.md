@@ -80,11 +80,16 @@ Following CSS class selectors that were combined and changed to id selectors:
     display: block;
     margin: 10px auto;
     max-width: 150px;
-    
+    <br>
+    <br>
   
-     
-     https://{AleksaMik}.github.io/{Code-Refactor-1-challenge}
-
+   <h5>Deployed aplication link with GitHub Pages<h5>
+  
+  https://aleksamik.github.io/Code-Refractor/
+  <br>
+  <h5>GitHub Repository link<h5>
+    
+  https://github.com/AleksaMik/Code-Refractor
  
  
   
