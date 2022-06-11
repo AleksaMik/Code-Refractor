@@ -88,10 +88,10 @@ Following CSS class selectors that were combined and changed to id selectors:
   <br>
   <br>
   
-  link to GitHub repository
+  link to the webpage
   <https://aleksamik.github.io/Code-Refractor/> 
   <br>
-  link to the web
+  link to gitHub repository
   https://github.com/AleksaMik/Code-Refractor
  
  
