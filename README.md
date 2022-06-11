@@ -1,6 +1,6 @@
 # Code-Refactor-1-challenge
 
-<h4>BootCamp first week challenge: Improve accessebility of given webpage through refactoring<h4>
+BootCamp first week challenge: Improve accessebility of given webpage through refactoring
 
  ![SCR-20220611-hic](https://user-images.githubusercontent.com/105229148/173199302-787dcb9f-a4f5-4528-b6ed-3efa5e580ca4.jpeg)
 
@@ -29,7 +29,8 @@ Repository follows best practices for class/id naming conventions, indentation, 
 Repository contains multiple descriptive commit messages.
 Repository contains a quality README file with description, screenshot, and link to deployed application.
 <br>
-<h4>Process<4>
+Process
+ <br>
 HTML:
  file title was changed from "Website" to "Digital Marketing Strategies".
 "alt" properties to the image tag were added.
@@ -85,12 +86,10 @@ Following CSS class selectors that were combined and changed to id selectors:
     max-width: 150px;
   <br>
   <br>
-   <h5>Deployed aplication link with GitHub Pages<h5>
+  
   
   <https://aleksamik.github.io/Code-Refractor/> 
   <br>
-  <h5>GitHub Repository link<h5>
-    
   https://github.com/AleksaMik/Code-Refractor
  
  
